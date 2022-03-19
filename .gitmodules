@@ -4,3 +4,11 @@
 [submodule "deps/polyscope"]
 	path = deps/polyscope
 	url = https://github.com/nmwsharp/polyscope.git
+[submodule "deps/glfw"]
+	path = deps/glfw
+  	url = https://github.com/glfw/glfw.git
+	branch = master
+[submodule "deps/imgui/imgui"]
+	path = deps/imgui/imgui
+	url = https://github.com/ocornut/imgui.git
+	branch = master
